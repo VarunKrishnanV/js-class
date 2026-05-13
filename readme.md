@@ -1,5 +1,3 @@
-/*
-
 Variables:
 -----------------
 - Variables
@@ -42,7 +40,7 @@ Iterations:
 - do while
 - when to use for and while and difference b/w them
 
-Funcations:
+Functions:
 -----------------
 - Function declaration 
 - Function expresson
@@ -67,75 +65,42 @@ Execution Context:
 - What happens in creation phase
 - Example with diagrams 
 
-*/
-/* 
-Operators:
+Hoiting and TDZ:
+-----------------
+- Hoisting
+- Temporal dead zone
+- Function hoiting
+- Variable hoiting
+- Difference between let, const, var
+
+Scope:
+-----------------
+- Type of scope
+    - Global sope
+    - Block scope
+    - Function scope
+    - Module scope
+- Scope chain
+- Variable shadowing
+- Better practise for loops (use let not var)
+- JS closures
+- Data encapsulation
+    - Function factory
+- Closures and memor leakage
+
+
+
+Object and Object Manipulation
 -----------------
 
-- Types of operators
-    - Arithmetic => +, -, *, /, **, ++, --
-    - Assignment => =, +=, -=, *=, .....
-    - Logical = &&, ||, !, ??
-    - Conditional =? ?:
-    - Bitwise => &, |, ^, ~
-    - Comparison => <,  >, <=
-    - Relational
-    - Grouping
-    - typeof
-    - instanceof */
+This
+-----------------
 
+Error handling
+-----------------
 
- /* 
-- Operators => symbols
-    - Operator
-    - Operands
-    = Expressions 
-*/
+Array
+-----------------
 
-{let a = 10;
-console.log(a++);
-console.log(a);
-let b = 10;
-console.log(++b);}
-
-let a = 5;
-
-a += 5
-console.log('a: ', a);
-
-
-// short circuting:
-
-let input = null;
-
-let name = input || "username"
-console.log('name: ', name);
-
-
-let user = {
-    name : "naveen",
-    age : 25
-}
-
-console.log("name" in user);
-
-let num = [1, 2, 3]
-console.log('num: ', num);
-
-console.log(num instanceof Object);
-
-// groupoing
-let sum = (5 + 6) + (8+10)
-
-
-class Car{
-    constructor(name, color){
-        this.name = name;
-        this.color = color
-    }
-}
-
-let car1 = new Car("Benz", "Black")
-let car2 = new Car("Audi", "Black")
-console.log('car1: ', car1 instanceof Car);
-console.log('car2: ', car2 instanceof Car);
+DOM
+-----------------
