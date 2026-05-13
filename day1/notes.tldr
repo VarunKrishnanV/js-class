@@ -1,0 +1,3406 @@
+{
+	"tldrawFileFormatVersion": 1,
+	"schema": {
+		"schemaVersion": 2,
+		"sequences": {
+			"com.tldraw.store": 5,
+			"com.tldraw.asset": 1,
+			"com.tldraw.camera": 1,
+			"com.tldraw.document": 2,
+			"com.tldraw.instance": 26,
+			"com.tldraw.instance_page_state": 5,
+			"com.tldraw.page": 1,
+			"com.tldraw.instance_presence": 6,
+			"com.tldraw.pointer": 1,
+			"com.tldraw.shape": 4,
+			"com.tldraw.user": 1,
+			"com.tldraw.asset.image": 6,
+			"com.tldraw.asset.video": 5,
+			"com.tldraw.asset.bookmark": 2,
+			"com.tldraw.shape.group": 0,
+			"com.tldraw.shape.text": 4,
+			"com.tldraw.shape.bookmark": 2,
+			"com.tldraw.shape.draw": 4,
+			"com.tldraw.shape.geo": 11,
+			"com.tldraw.shape.note": 12,
+			"com.tldraw.shape.line": 5,
+			"com.tldraw.shape.frame": 1,
+			"com.tldraw.shape.arrow": 8,
+			"com.tldraw.shape.highlight": 3,
+			"com.tldraw.shape.embed": 4,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 4,
+			"com.tldraw.binding.arrow": 1
+		}
+	},
+	"records": [
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"x": 173.94076388928443,
+			"y": 751.1605070359581,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sZcRmNTfmrvXAsswIRPJb",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/HyHXPQAA1zlmQAAAbEBsRAAA4T1pRAAAAABpRAAA7DkmRQAAAADhRQAAALrkRQAA7LnhQQAAAADXOQAA7LkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0AYnIxWV",
+			"typeName": "shape"
+		},
+		{
+			"x": 246.6171546937766,
+			"y": 312.8950182884716,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:O6nO9dxTFrVuQkFuMwS9M",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/17cAAAAAw72uOwAAvcOpQwAA18BPRAAA0sDIRAAAvcOsRwAA18SpRwAA0sDIRAAArrvDPQAAAACutwAAhTfXtwAAuEK4vwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "ae20exBV",
+			"typeName": "shape"
+		},
+		{
+			"x": 444.71875,
+			"y": 148.5546875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:VXD29awmNNRZCTIrlmoMi",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAjzaPNgAAAABmNgAAZjbhQAAA4Tx4RAAAezrfRAAAjzbhRAAAjzbfRAAAj7Z4RAAAAACAQgAAj7azQQAAAADcQAAAZjYUQAAAjzZ7PgAAZjaFPgAAAADXPAAAAACPNgAAAACPNgAAAABmNgAAAACPtgAAjzYAAAAAhT6PtgAAD0CPugAAD0AAAAAAgEKPtgAASEWPugAASEWPtgAAT0cAAAAA4Eh7OgAAykp7OgAAGEqPtgAAd0jsvAAAEkQAAAAA1zwAAAAAs0GPtgAAsUWPtgAAgEaPtgAArkWPtgAA4UAAAAAAezoAAAAAjzYAAAAAjzYAAAAA1zwAAAAAgEIAAAAAgEKPNgAAgEIAAAAAhT4AAAAAjzYAAAAAZjYAAAAAezoAAAAAhT6PtgAAD0BmNgAA4UAAAAAA4TyPtgAAZjYAAAAAAACPtgAAAACPtgAAj76PwgAAj74mxgAAj7phxwAAj7r2xgAAAAC7xQAAAACFxAAAAAC9wQAAAACPugAAAACPtgAAj7YAAAAAj7aPtgAAj7YAAAAAj7aPtgAAj74AAAAAYcMAAAAAGsSPNgAAvcUAAAAATMgAAAAATcgAAAAAgMhmNgAAhMmPNgAAVMqPugAAt8uPtgAAHMt7OgAAhMmPOgAAwMVmNgAA7MAAAAAA7Lx7OgAAj7oAAAAAj7YAAAAAj7YAAAAA7MCPNgAAj74AAAAAj7oAAAAAjzYAAAAA1zyPtgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aCbk8s9V",
+			"typeName": "shape"
+		},
+		{
+			"x": 384.7733544471591,
+			"y": 434.9107436554709,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gx-8sgZXNc__Ud7ZPIfIk",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAAAAC9QQAArjfARQAAAADJSAAAUsC4SwAAuL/DSwAAAADNSgAAAAAuRwAAw7upQwAArreuNwAAAACutwAAAACutwAArjcAAAAArjvDuwAApD/NwQAAqUPIwgAAqUPNwQAAykTNwQAAYUe4wwAAykjXwAAAm0nDuwAAnUsAAAAAdU0AAAAABU4AAAAABk6uvQAAv0yutwAAuEuuNwAAd0qaOwAAgUmutwAA40iuuQAAwEXDuwAArjcAAAAArjcAAAAAhTcAAAAAwz2utwAAvUHDuwAArj+utwAArjsAAAAAhTeutwAAAADXtwAAAACutwAAAAC4vwAAAADDwgAArrtFxgAAzb27xwAAw78byAAArrs9xwAAw7/NxQAArrfNvQAArrfDuwAA17eutwAArrvDuwAAw7vNvQAAuL/DuwAAzcHNvQAAyMKuuwAAw8LXtwAAT8UAAAAAQMeuNwAAismkPwAAzMvNQAAAesy4PQAA382uNwAAas2uNwAApcykPgAAgcquOwAA0siuOwAAuMeuNwAAEcmuNwAATsmFNwAAlsgAAAAAWsQAAAAArrcAAAAAAACutwAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "ayM6HKrV",
+			"typeName": "shape"
+		},
+		{
+			"x": 148.4375,
+			"y": 141.125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wUZDn8LpukRXB7RvDeGTT",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAjzYAAAAAjzYAAAAAZjaPtgAAjzYAAAAAAACPtgAAjzaPtgAArkFhwwAAeERUxQAAgEJhwwAAezrsvAAAAABmNgAAAACPNgAAezoPQAAAAADhQAAAjzrhQAAAAAAPQAAAZjZmNgAAAACPNgAAAACPtgAAjzYAAAAAez6PtgAAeESPvgAAUkMawAAAez6PugAAjzYAAAAAezp7OgAAjzaFPgAAD0CAQgAA4TzcQAAAezrhPAAAjzYAAAAAZjYAAAAAD0CPugAAEkQawAAAgEKPvgAArkGPugAArkGPugAAs0EAAAAAez4AAAAAhT57OgAA4UB7OgAAD0B7OgAA4TwAAAAAez6PNgAA4UCPtgAAgEKPtgAA4UCPugAArkGPugAAez6PugAAjzYAAAAAezqPtgAAhT4AAAAAezoAAAAAezpmNgAAD0CPNgAAFECPNgAAZjYAAAAAjzYAAAAAezqPtgAAhT6PugAAezqPtgAAZjYAAAAAjzYAAAAAezqPtgAAjzYAAAAAjzZmNgAAZjaPNgAAezoAAAAAFEAAAAAA1zwAAAAA4TyPtgAAjzYAAAAAez4AAAAAhT6PtgAAez6PtgAAFEAAAAAAD0CPtgAA4TwAAAAAZjYAAAAAAABmNgAAjzYAAAAA4TyPNgAAeESPNgAASEVmNgAA5kbhPAAAEkSPNgAAez4AAAAAAABmNgAAjzYAAAAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a3wkI39V",
+			"typeName": "shape"
+		},
+		{
+			"x": 992.5497365254704,
+			"y": 156.48825463662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:LI4Koat32rEksyeAO8za8",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7YAAAAAj7YAAAAAvcF7OgAAj76FPgAAGsAPQAAA7LwPQAAAj7oPQAAA7LyzQQAAj7rXPAAAAACPNgAAjzYAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aFzzUCi2",
+			"typeName": "shape"
+		},
+		{
+			"x": 676.7566537859972,
+			"y": 512.9153637361544,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:NScBbrgH7Iu-y9n5okwGm",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/uL8AAAAAvcOuOwAAvcOuOwAAysWkPwAAUsW4QgAArre4PQAAhTcAAAAArjuuNwAAykSuOwAAwEWuNwAAvUEAAAAAAACuNwAA18CzQgAAw8JPRAAAzb3IQAAAAACuOwAAAACuOwAAmjuFNwAAw0HDPQAAT0gAAAAAgUnNvQAALkfNvQAApD/DuwAArjeutwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b03ZZoXaV",
+			"typeName": "shape"
+		},
+		{
+			"x": 347.75983075448346,
+			"y": 118.56481155772246,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:BTJke06y2sBEPIbDIDwPo",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAAAACutwAAAADXtwAArje4vwAArjvSwAAArj+9wwAAqUPDwgAAvUHNvQAArjsAAAAAmjuaOwAAwz3DQQAArju9QQAAH6FDRQAAzcE7RgAAw8JFRQAAuL+9QQAAw7+4PQAAzb2uPwAArreuOwAArjcAAAAArjcAAAAAvUXDvwAALkfSwAAAw0HDvwAAmjuutwAArjcAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aPdcf6rV",
+			"typeName": "shape"
+		},
+		{
+			"x": 984.0341115254704,
+			"y": 159.44919213662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:EBnN7MSDw_1xJlTg2RxLX",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/jzYAAAAA4TwPQAAArkEPQAAAhT6zQQAAezp7PgAAjzZ7OgAAAACPtgAAZjYAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aEawOVSG",
+			"typeName": "shape"
+		},
+		{
+			"x": 319.2109375,
+			"y": 155.2421875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zJ_6awGqRC4y-gPWP8iKd",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7YAAAAAj7aPNgAA7LzhPAAA7MB7PgAAj8JSQwAAYcNNQwAAj8KAQgAA7LyFPgAA7LzhQAAAj7Z7OgAAAABmNgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a66LrSMV",
+			"typeName": "shape"
+		},
+		{
+			"x": 337.441215779545,
+			"y": 785.8690031764688,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PG9yPgGBSqcHU-LNlNA3V",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7D0foQAAaUT2vQAA/Ep2wAAA3ExswwAAyExswwAA40nxwQAAbEAAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0CNMWjyV",
+			"typeName": "shape"
+		},
+		{
+			"x": 384.73754947908117,
+			"y": 895.4114772154021,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hL-8iIn1mHXHvTZHgS6yt",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/HyHXOQAAAABmQAAA8cHkRQAAdsRpSAAAdsDkRQAAccDhQQAAdsAmRQAA9r1cQwAA7DkAAAAA4T3svQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0M54kanV",
+			"typeName": "shape"
+		},
+		{
+			"x": 78.82251395364715,
+			"y": 110.12167692434349,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-oiJm3_PgSciEoIeE4OkY",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/wz3DuwAAykTIwQAALkdaxAAAgUlKxgAAkUo3yAAAJEvsyAAAYUtvyAAAv0wzyAAAkUrKxQAALkfNwQAAs0LNvQAAzUDDuwAAhTcAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b06XqTzSG",
+			"typeName": "shape"
+		},
+		{
+			"x": 502.3515625,
+			"y": 161.1640625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ks_GHpAddi8V_ojSqrgtB",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7YAAAAAj7YAAAAAvcF7OgAAj76FPgAAGsAPQAAA7LwPQAAAj7oPQAAA7LyzQQAAj7rXPAAAAACPNgAAjzYAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aFREHfZV",
+			"typeName": "shape"
+		},
+		{
+			"x": 461.0654085062412,
+			"y": 113.52839427914199,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PrVHyZtcYSmzwS50YIQmk",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjfXtwAArjfDvQAAAADDvwAArje4vwAApD+4vwAAwz3NvQAApD/XtwAAs0KutwAAqUMfoQAArj/NQAAAwz2zQgAAuD1FRQAArre9RQAA18DKRAAAuL/IQAAAw7vDPQAArrcAAAAArjeutwAApD/DuwAAqUO4vwAAs0LDuwAAwz3NvQAAAAAfoQAArjcAAAAArjcAAAAArjcAAAAAmjuutwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aRrGuiZV",
+			"typeName": "shape"
+		},
+		{
+			"x": 394.3359375,
+			"y": 153.1328125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wdmwvGAOVt_QFFXk_d_iE",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7YAAAAAj7qPNgAAGsCuQQAA7MASRAAAvcF4RAAAj8IXRgAAlMJIRQAAj75SQwAAj77cQAAAj7qzQQAA7Lx7PgAAAADhPAAAAACPtgAAjzaPtgAAez7svAAAjzoAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aA3hrveV",
+			"typeName": "shape"
+		},
+		{
+			"x": 287.69111717960396,
+			"y": 322.56272970073763,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-LNBPqpHpGDCAqwBhy4sJ",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rreuNwAAzb3IQAAAzb2zQgAAyMLARQAAzcG9RQAAuL9PRAAAw7uuPwAArrvDPQAAzb2zQgAAAACkPwAAhTcAAAAAwz0AAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "ahq4UvAl",
+			"typeName": "shape"
+		},
+		{
+			"x": 106.89990964907304,
+			"y": 809.4464288174595,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rVJyCny1iHy-_FhRT1Iit",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AAAAugAA7DnsuQAAaURswwAADEjxwQAA/Ep2wAAADEzxwQAA3Ex2wAAAakzxwQAAO0xswwAA9k32vQAAN0/svQAAXVAAugAAek/suQAAakwfoQAA8k0AAAAA/EoAAAAADEjsOQAAXEPhPQAAXEPsOQAA4UEAAAAAJkXXOQAAyEjhPQAAaUjhPQAAXEfsOQAA4UUfoQAAbEQAAAAAJEUAAAAA5EUAAAAAn0bsOQAA4UXXOQAA4UUAAAAAbEAAAAAA7DkAAAAA1zkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0OUEOoGl",
+			"typeName": "shape"
+		},
+		{
+			"x": 226.434656202646,
+			"y": 445.4347380785377,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JNwGs8WsHtfsE0cNzl6YW",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/0sC9QQAAyMKsRwAA1MTJSAAAT8XKSAAAT8WNSAAAw8K9RQAA17e9QQAArrfNQAAArjeuNwAArjcAAAAAs0LXwAAAjEhAxwAAjUiUyAAAykjSyAAAOEbFxgAAzUC4vwAAAACuNwAAhTfDPQAArjezQgAArrdDRQAAw7sxRwAArre9RQAArjfNQAAArjcAAAAAs0LIwgAAvUVIxgAAqUe4xwAA6EhmyQAAjEhaxAAArj/DuwAArjcAAAAAmjvDPQAAwz2zQgAAwz2pQwAAuD2pRwAArjepRwAArjepQwAAAACuNwAArjcAAAAAvUHDuwAAO0bXwAAALkfDwgAAvUXXxAAAqUPNwQAArjeuuwAArjcAAAAArreFNwAArjfNQAAAuD2pQwAArj/KRAAAuD29QQAArju4PQAArj8AAAAAs0IAAAAAvUGuuwAAmjvXtwAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "av0YGwFV",
+			"typeName": "shape"
+		},
+		{
+			"x": 111.66511072274514,
+			"y": 230.27751876250687,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:YTgBWIEEaSPFedIUSFsVO",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAAAACuNwAAAACkPwAAwz3DQQAArje4PQAApD+uOwAAzUCutwAAwz3NvQAAmjvNvQAArjdSxQAAAADXxAAAAADSwAAAAADXtwAAAACuNwAAAADDPQAArjvIQAAAs0JFRQAAyEA4RgAArj9PSAAApD9PSAAArj9FRQAAAACzQgAA17ezQgAAzb3DPQAArrcAAAAA18DDuwAAzb3XwAAAzcG4wwAAw7tcxAAAwz3DxgAAqUNYyAAAT0RAxwAAs0IayAAArjvDxgAArjdaxAAA17fDuwAArrcAAAAAAACuNwAArreuOwAAAACzQgAArjfKRAAAhTfIQAAArjfDPQAArjeuOwAAzUCuNwAAyEDXtwAAwz3NvQAApD/SwAAArjvNwQAArjdaxAAArjfNwQAAAADDuwAAAACuNwAAAACuNwAAAACkPwAAuD2zQgAAwz3DQQAAwz2FNwAAhTcAAAAArjeutwAAwz24vwAAyEBSxQAArj/DxgAArju7xwAArjfNxQAAhTeutwAAAACuNwAArreuNwAArjtDRQAArjvKRAAApD+zQgAAyEDNQAAAw0GkPwAAqUOuNwAAvUXNvQAAs0K4vwAArj/NvQAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "acOIztNl",
+			"typeName": "shape"
+		},
+		{
+			"x": 144.47087811503448,
+			"y": 271.25940780631265,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RswgYUI2GiPFuftCdh7qj",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAArreuOwAA17e4PQAArrfDQQAArrdNRAAAw7u4QgAAAADIQAAAAACpQwAAAADARQAAAABNRAAAAADDPQAAhTeutwAArjcAAAAAs0LXtwAAw0GuuwAAs0bDuwAAFkqutwAAvE24PAAANlCaOQAAuE6uNwAAn0uuNwAATkiuNwAAykQAAAAAs0IAAAAAwz0AAAAAwz0AAAAAs0KuOwAAqUeuNwAAEki4PQAAQ0UAAAAAqUMAAAAAwz0AAAAAAACutwAArrfDuwAA18BIxgAAuL9WyAAAzb3FxgAAw7vAxgAAw7tKxgAAAABXxAAAAADDvwAAAACutwAAAACutwAArrfXvQAAAAC4vwAArreutwAA17cAAAAArrcAAAAAuL/XtwAA18QAAAAAUsUAAAAARcauNwAAxcYAAAAAPceuNwAA08iuNwAAWMiuOwAAV8gAAAAAjMmuOwAAQ8oAAAAAE8uFNwAAFMuuNwAATsmkPwAAM8iuOwAAWsSuNwAAuL+uOwAArrcAAAAA17cAAAAArrcAAAAAzb2uNwAAuL8AAAAAyMIAAAAAzb2uNwAArrcAAAAA17cAAAAAuL8AAAAAuMeaOwAASMauNwAAzb0AAAAArrcAAAAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aK3t3C0V",
+			"typeName": "shape"
+		},
+		{
+			"x": 293.3359375,
+			"y": 153.7421875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:N3KhADMW9R4KXC6xcAQA8",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAAAB7OgAAAAB7OgAAAADhPAAAjzaFPgAAAADcQAAAjzYPQAAAAACzQQAAZjauQQAAjzaAQgAAj7YPQAAAAADhQAAAAADhPAAAAAB7OgAAAAB7OgAAAADhQAAAAACzQQAAAAAPQAAAAABmNgAAAACPNgAAAAB7OgAAAACPNgAAjzYAAAAAAAB7OgAAezquQQAAZjaAQgAAjzaPOgAAAABmNgAAAACPtgAAAACPtgAAAACPtgAAAACPtgAAAACPtgAA4TyPugAA4TzswAAAD0CPvgAArkHsvAAA4UCPugAAD0SPtgAAEkSPtgAAD0QAAAAA30QAAAAAEkQAAAAAdkQAAAAASkUAAAAA5kZ7OgAAT0ePNgAAEUgAAAAA6UYAAAAArkWPtgAAEkQAAAAArkVmNgAAgEaPNgAAREiPNgAA6UYAAAAA6UZ7OgAAD0R7OgAAgEZ7OgAAgEaPOgAA30RmNgAAs0EAAAAA4TyPNgAAezoAAAAAjzYAAAAAAACPtgAAAACPtgAApLq9wQAAj7aPwgAAj7q7xQAAAAC7xQAAAAD4xgAAAACDxAAAAAAawAAAAACPugAAj7aPugAAj7aPugAAj7qPugAAAACPtgAAj7bsvAAAj7qPugAAj7rsvAAAj7aPtgAAAACPtgAAj7qPtgAAj7aPtgAAj7qPugAAj7qPtgAAj7YAAAAAj7qPtgAAj7oAAAAAj77svAAA7MCPtgAAj8IAAAAAGsQAAAAA+MaPugAARsmPtgAAs8qPtgAAIcqPtgAAt8l7OgAAlMrhPAAAe8lmNgAA+MaPOgAA6cQAAAAAGsRmNgAAg8QAAAAA7MSPNgAAg8R7OgAAGsR7OgAAGsCPNgAA7LyPNgAAj7YAAAAAuLYAAAAAj7YAAAAAj7YAAAAAAABmNgAAj7oAAAAAGsAAAAAAGsCPNgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a5DRbPhV",
+			"typeName": "shape"
+		},
+		{
+			"x": 57.06728919158405,
+			"y": -285.15591345710686,
+			"z": 0.6628422046976354,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": 582.7404621377607,
+			"y": 294.90386771745466,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:xRBDfyyX-QlJYS7tynnLy",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAAAACuNwAArjtPRAAArjdPSAAArjf8SQAAw7sGSQAAAAASSAAAwz2pRwAArjsuRwAArjeuQwAAhTe4PQAAAACuNwAArjcAAAAAqUPDuwAAwEWuuwAABknXtwAAFkquuwAA/EnDuwAABknDuwAAtkYAAAAAykSutwAALkcAAAAALkcAAAAAvUWutwAAykQAAAAAqUMAAAAAwz3XtwAArjcAAAAArjcAAAAAAACutwAArjcAAAAAuD0AAAAArjcAAAAAAACutwAAAADXtwAAAAC4vwAArjfDwgAArjdIxgAArjvSyAAAmjtOyQAArjfDxgAAAABPxQAAAADNwQAAAADXwAAAAACutwAArrcAAAAAzb0AAAAA18QAAAAAG8iuNwAAlMiuNwAATsmFNwAAQ8quNwAABsquOwAAWMiuOwAAlMgAAAAA0sgAAAAAWMgAAAAAyMIAAAAArrcAAAAAAACuNwAAuL8AAAAAUsUAAAAA1MQAAAAAyMLXtwAArrsAAAAAw7sAAAAAzb0AAAAAw7uuNwAArrcAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "am0LzloG",
+			"typeName": "shape"
+		},
+		{
+			"x": 884.5341115254704,
+			"y": 148.45700463662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HKkqh2enwj05H5c1iy4Bl",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7YAAAAAj7qPNgAAGsCuQQAA7MASRAAAvcF4RAAAj8IXRgAAlMJIRQAAj75SQwAAj77cQAAAj7qzQQAA7Lx7PgAAAADhPAAAAACPtgAAjzaPtgAAez7svAAAjzoAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aAbi86Ql",
+			"typeName": "shape"
+		},
+		{
+			"x": 412.84093918623813,
+			"y": 806.4338616102099,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dfVyWDGQYECOen6WIUEL0",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/8cn2vQAA7LkfoQAA7LkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0SKNu4XV",
+			"typeName": "shape"
+		},
+		{
+			"x": 83.35252730110894,
+			"y": 508.8641322872049,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:shU11PbXmhBPgd2oDlQGF",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjcAAAAArjcAAAAArjeuNwAArjcAAAAAmjsAAAAArjvDuwAArju4vwAAw7vNwQAAzb3NvQAAzb3NvQAAw8LXtwAAyMLDPQAArruuPwAA17fIQAAAwz2zQgAAwz3NQAAAuD2aOwAAzUAAAAAAQ0XNvQAAT0S4wwAAs0JSxQAArjvDxgAAAAC4xwAAzb1xyAAAw7/NxQAAzb3NwQAArreutwAAAACuNwAAw7vIQAAAAAA7RgAApD8uRwAAqUPJSAAAqUONSAAAs0LjSAAAykSDSQAAs0KpRwAArj+9RQAArjuzQgAAAACuNwAArjcAAAAAqUOutwAAyEDNwQAArjfNxQAArrc7xwAAyMJXyAAAV8RIxgAAXMS9wwAAw8LNvQAAzb2utwAAw7sAAAAAAACuOwAArrcAAAAAAADXtwAAs0K4vwAAzUDXwAAAuD29wwAAAADNwQAArrvDwgAAw7uuuwAArrcAAAAA17cAAAAAzb2uOwAArrfIQAAAAADDPQAAwz2aOwAApD8AAAAAyECutwAArjfDuwAArjvNwQAAAADDwgAAw7vNwQAArrvNvQAAw7vDuwAAzb0AAAAArrcAAAAArjcAAAAAhTcAAAAArj8AAAAArjsAAAAArjcAAAAAmjuuPwAAzUDIQAAAvUG9QQAAs0K4QgAAs0KkPwAAwz2uOwAArjsAAAAArjeuNwAAmjsAAAAAwz0AAAAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "atLiY37V",
+			"typeName": "shape"
+		},
+		{
+			"x": 497.8303339054586,
+			"y": 103.11488798650117,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZLpCPk0aNe7eDLM-UMJ6a",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/zb2uOwAA18CuOwAArru4PQAA17fNQAAAAACaOwAArjeuNwAAwz2uOwAAvUHDPQAAykSkPwAAT0TDPQAAAACuNwAAw7sAAAAAw7u4PQAAuL+uNwAAzcGuOwAAzcG4PQAA18DDPQAArrcAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aSnyE7HV",
+			"typeName": "shape"
+		},
+		{
+			"x": 362.2067161960017,
+			"y": 1261.5478541548482,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:7l0SilYp-PuPdywdxnq4k",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7DkfoQAA1zkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0UGlOsjV",
+			"typeName": "shape"
+		},
+		{
+			"x": 397.24053441996324,
+			"y": 804.9345991809024,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:X2vxPr6G13bq02BnGaILk",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AADsOQAAXEPcQQAAyUgMSAAAWkuESQAAn0pBSgAAXEfISAAA4UFXQwAAAADsOQAA9r3XOQAA8cUAAAAAkcnmQQAA8cnhRQAATcomRQAA78kmRQAAbMcmRQAAdsAkRQAAAABsRAAAAADhPQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0TlyS1QV",
+			"typeName": "shape"
+		},
+		{
+			"x": 339.7324666718468,
+			"y": 841.4393649344655,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:tB2wAx1HhV3beMc3nyNVj",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7LkAAAAA7DkfoQAAbEAAAAAAn0YAAAAAQEoAAAAAQEoAugAAW0txwAAADEh2wAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0FlQxhPV",
+			"typeName": "shape"
+		},
+		{
+			"x": 137.0234375,
+			"y": 139.7734375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jkOVtEVuQ7G4XQH9v_LAT",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAjzaPNgAA4TwPQAAA4TzhPAAAez57PgAA4TzhPAAAezrhPAAAhT7hPAAArkEPQAAAgEIPQAAAeEThPAAAeEThPAAA4UR7OgAAF0YAAAAAF0YAAAAAgEaPNgAAgEYAAAAA6UYAAAAA30QAAAAAUkOPtgAA4UCPtgAAezqPtgAAhT4AAAAAZjYAAAAAAACPtgAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a1x6TwiV",
+			"typeName": "shape"
+		},
+		{
+			"x": 783.5341115254704,
+			"y": 149.06637963662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:c3EZL9anoO1O-EhgnFe9a",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAAAB7OgAAAAB7OgAAAADhPAAAjzaFPgAAAADcQAAAjzYPQAAAAACzQQAAZjauQQAAjzaAQgAAj7YPQAAAAADhQAAAAADhPAAAAAB7OgAAAAB7OgAAAADhQAAAAACzQQAAAAAPQAAAAABmNgAAAACPNgAAAAB7OgAAAACPNgAAjzYAAAAAAAB7OgAAezquQQAAZjaAQgAAjzaPOgAAAABmNgAAAACPtgAAAACPtgAAAACPtgAAAACPtgAAAACPtgAA4TyPugAA4TzswAAAD0CPvgAArkHsvAAA4UCPugAAD0SPtgAAEkSPtgAAD0QAAAAA30QAAAAAEkQAAAAAdkQAAAAASkUAAAAA5kZ7OgAAT0ePNgAAEUgAAAAA6UYAAAAArkWPtgAAEkQAAAAArkVmNgAAgEaPNgAAREiPNgAA6UYAAAAA6UZ7OgAAD0R7OgAAgEZ7OgAAgEaPOgAA30RmNgAAs0EAAAAA4TyPNgAAezoAAAAAjzYAAAAAAACPtgAAAACPtgAApLq9wQAAj7aPwgAAj7q7xQAAAAC7xQAAAAD4xgAAAACDxAAAAAAawAAAAACPugAAj7aPugAAj7aPugAAj7qPugAAAACPtgAAj7bsvAAAj7qPugAAj7rsvAAAj7aPtgAAAACPtgAAj7qPtgAAj7aPtgAAj7qPugAAj7qPtgAAj7YAAAAAj7qPtgAAj7oAAAAAj77svAAA7MCPtgAAj8IAAAAAGsQAAAAA+MaPugAARsmPtgAAs8qPtgAAIcqPtgAAt8l7OgAAlMrhPAAAe8lmNgAA+MaPOgAA6cQAAAAAGsRmNgAAg8QAAAAA7MSPNgAAg8R7OgAAGsR7OgAAGsCPNgAA7LyPNgAAj7YAAAAAuLYAAAAAj7YAAAAAj7YAAAAAAABmNgAAj7oAAAAAGsAAAAAAGsCPNgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a5q7zMnx",
+			"typeName": "shape"
+		},
+		{
+			"x": 636.4192788363425,
+			"y": 307.83097897728464,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SYIxkJAEtgzcg_AWXtLZN",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuOwAAzcFPRAAAzcGzRgAAvcISSAAAvcMxRwAAw8K9RQAAzb2pQwAArre9QQAA17fNQAAArjeuNwAArjfXtwAAAACutwAAs0LXwAAAykRPxQAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "ao5TFaMV",
+			"typeName": "shape"
+		},
+		{
+			"x": 341.5546875,
+			"y": 154.0390625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mlh9Aj5atvWqb8zs9XFxd",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7aPNgAAj7qPNgAAGsB7OgAAj8J7PgAAg8SzQQAAvcGAQgAAj8IPQAAA7MB7PgAAGsCFPgAAH8B7PgAAj7aPNgAAjzYAAAAAAACPNgAAj7p7OgAA7LzhQAAAj7rhPAAAj7Z7OgAAj7YAAAAAj7ZmNgAAj76POgAA7LxmNgAAj7aPNgAAj7aPNgAAj7ZmNgAAj7aPNgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a767z5Ol",
+			"typeName": "shape"
+		},
+		{
+			"x": 906.4403615254704,
+			"y": 148.95700463662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QmFY_DfvObPX1HNEhKCTd",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAAACPNgAAGsB7OgAAYcOAQgAAGsR4RAAAg8RIRQAAj8JIRQAAj7qAQgAAj76AQgAAj7bhQAAAj7rhPAAAAABmNgAAj7YAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aBp7qsjl",
+			"typeName": "shape"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:8DeQ_7OUPOPJqrgteUtb0"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 195.8570661072789,
+			"y": 293.7805717247914,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4YT0XAgAc0u7RV-kWTdg9",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rre9QQAAzb07RgAAw7uzQgAArjfDuwAAw0HDwgAAEkiWyAAAEUgbyAAAtka7xwAAvUXDxgAAs0LIwgAArjcAAAAAAACuNwAArjuuOwAArjupQwAArjc4RgAAAACNSAAArjfARQAAuD29QQAArje4PQAArjeuNwAArjeutwAAs0bXwAAAgUm4xwAAg0kYyAAATkgayAAAzUC4vwAArjcAAAAAhTeFNwAArjvKRAAAwz0SSAAAAADKSAAAhTc4RgAArje9QQAAAACuNwAArjcAAAAAyECuuwAARUXUxAAAwEVIxgAAvUVKxgAAqUNaxAAArjeutwAArjcAAAAAAACuNwAAwz24PQAAuD3DQQAArj+zQgAApD9PRAAAwz1PRAAAwz2zQgAAmjuuOwAArjcAAAAAAADXtwAArjeutwAArjsfoQAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aNnEI1mV",
+			"typeName": "shape"
+		},
+		{
+			"x": 102.29203432494818,
+			"y": 49.09539955243952,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jByC8ug7NcNe5Y89PoRE6",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjcAAAAArj+uOwAAs0KzQgAAvUHKRAAArj9PRAAArjuuNwAAAACuNwAAAADXtwAA17cAAAAArre4wwAAw7vUxAAArjvDxgAAvUHPxQAArj/SwAAAmjvNvQAArjcAAAAArjvIQAAArjvKRAAAwz29RQAAmjvDQQAAAADXtwAArjeutwAArj9axAAApD9axAAArjvDwgAArjfNvQAArjcAAAAAAACutwAArje4PQAAuD2uPwAAwz3IQAAArjcAAAAArjeutwAAuD3NvQAArj/NwQAApD9axAAArju9wwAArjcAAAAAAACuNwAArjeuNwAAyECkPwAArj/DPQAAmjsAAAAArjsAAAAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aXIJudOV",
+			"typeName": "shape"
+		},
+		{
+			"x": 155.390788338794,
+			"y": 25.036609152200356,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nbXevrOYOtEg6murILaFN",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/w8KuOwAAzcHIQAAAw7uuPwAAAAC4PQAArjeuPwAAwz2uOwAApD+FNwAAzUCuuwAAuD3XwAAArjfDuwAArjcAAAAArjcAAAAArjcAAAAArjcAAAAApD+uOwAArj+uNwAAvUEAAAAAqUPNvQAArj/UxAAAmjtIxgAAAAC4xwAAzb24xwAAw8I9xwAA18DUxAAAw7vDuwAAAACuNwAArrfIQAAAAADARQAAvUGzRgAAs0apRwAAqUcuRwAAtkY7RgAAyEC9QQAAAACuNwAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aYn1pGHV",
+			"typeName": "shape"
+		},
+		{
+			"x": 555.7169069044267,
+			"y": 518.2648307176084,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:KThGjQIWHev0ruIY2iQ8I",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/w7uuNwAAAADDPQAArrfIQAAArjupQwAArjc4RgAAAABPRAAAAACuPwAAAACuNwAAw7sAAAAArrcAAAAAAADXtwAA17eutwAAAADNwQAArje4vwAArjvNvQAApD/NvQAArj/XtwAAs0IAAAAAs0IAAAAArj+utwAArjcAAAAAhTeutwAArj/XwAAArjfIwgAArrfSxAAA17fUxAAAzcFSxQAAvcPDwgAAT8XNvQAAysWuOwAAUsWzQgAAzcGpQwAArrukPwAAAACuOwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b017i9kuV",
+			"typeName": "shape"
+		},
+		{
+			"x": 97.26809006873833,
+			"y": 884.3794398041216,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MY4EKo9GQwX59DC7nrhxJ",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AAAfpQAAAAAfoQAA7DkAAAAA1zkAAAAAaUQAAAAAhUnsvQAAHU12wAAALFIAugAAQlAAAAAAJVMAAAAA81DsuQAAaU0AugAAmEwAAAAACk4AAAAASk/sPQAATU0AAAAAW0sAAAAAhEkAAAAAyEgAugAAJkUAAAAAn0YAAAAAn0YAAAAA4UUAAAAAbEDsuQAA4T0AAAAA4T3suQAA7DkAAAAAZkAAAAAA5kHsuQAAV0P2vQAA5kHsuQAA1zkAAAAA4UEAugAAJkUAAAAA4UEAAAAA7DkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0PHzaDHG",
+			"typeName": "shape"
+		},
+		{
+			"x": 297.57980485272174,
+			"y": 332.4145879970468,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:u6DZm4yUZyXlRGGiXN0Et",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rreuNwAA18CkPwAA0sDDQQAA0sDIRAAAyMLARQAAzb3KRAAAw7u9QQAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aiZi4qZV",
+			"typeName": "shape"
+		},
+		{
+			"x": 855.5540708477056,
+			"y": 505.59552509543875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dAC6F9sLAaDjUZngayOjx",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/17cAAAAAT8UAAAAAwMauOwAAUsWuOwAAT8W9QQAAyMKuPwAArreuNwAArjcAAAAArjcAAAAAvUGaOwAAykTDPQAAmjvDPQAArjeaOwAArrupQwAAzcE7RgAAWsQ4RgAA18DARQAArre4PQAAhTcAAAAArjeutwAAqUfXtwAAd0qutwAAT0jNvQAApD+utwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b05wIuzIl",
+			"typeName": "shape"
+		},
+		{
+			"x": 430.5798918528957,
+			"y": 208.4376983149878,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:xTQFHBrzKJbei2gDSzxsc",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAArrtFRQAA18CzRgAAvcNFRQAAV8S9QQAAzcHDPQAAw7uuOwAAAADXtwAArjeutwAAT0TDuwAAXUkAAAAAs0YfoQAAw0GuNwAAhTfNvQAArjfNwQAArrfNwQAAzb3DwgAArrfDvwAA17eutwAArjcAAAAAAACuNwAArjeuOwAAmjukPwAArjupQwAArjfKRAAArjepQwAArjvDPQAAAADXtwAAH6EAAAAArrcAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aT3bz2Il",
+			"typeName": "shape"
+		},
+		{
+			"x": 259.8112789354692,
+			"y": 313.0699578283126,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nUm39YEUrILRSwc2x9lQY",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAAuL/DPQAAyMKpQwAAzcFFRQAAuMM4RgAAyMKpRwAAzb07RgAArre4PQAA17euNwAArreuOwAAAACuNwAArjcAAAAArjcAAAAArjcfoQAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "affmwpTV",
+			"typeName": "shape"
+		},
+		{
+			"x": 341.033708965162,
+			"y": 760.2124351682908,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:S81fkGdIWOLIimqOeQPyM",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/aUQfoQAAO0wAAAAAyEz2vQAADEx2wAAAJklxwAAAZkAAugAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0B5CUGGl",
+			"typeName": "shape"
+		},
+		{
+			"x": 403.7182928653715,
+			"y": 887.6607453358973,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:a065e4OZ0-Zt1XJ78vhtd",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AADsOQAA7LlhQAAA9r1cQwAAdsDhRQAA8cHhRQAAbMOfRgAAdsAmRQAA7L3hQQAA7LnhQQAAALrhPQAAAADsOQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0Nf1wJhV",
+			"typeName": "shape"
+		},
+		{
+			"x": 347.3842115035992,
+			"y": 807.6926085337226,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OiG5FkwQZq88Rno1Ks5RH",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AAAUugAA7DnsuQAA1zkAAAAA7DnsuQAA4UHsuQAAaUh2wAAAXEfxwQAA4UXsuQAAbET2vQAAV0MAAAAA7DnsuQAA1zkAAAAA7DkAAAAAbEDsuQAAWkcAugAAWkfsuQAAbETsuQAA1zkAAAAA7DkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0DFSpHFV",
+			"typeName": "shape"
+		},
+		{
+			"x": 166.0989296459039,
+			"y": 453.1689072083505,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ys9G4KUvMfrcGMUyXVLYF",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAArjuuPwAAuD1FRQAAwz1OSAAAAADKSAAAw7vJSAAAuL9FSQAAzb29RQAAw7uzQgAAAACutwAArjcAAAAAzUC4vwAAOEbNwQAAT0jDvwAAXUlIwQAAd0rNvQAAnU2utwAADlCPPwAA00+aOQAAVk6utwAAw0vXtwAAvUWutwAAAACutwAAAADXtwAAAACutwAAAADNvQAArre4vwAAw7vIwgAAzb3DxgAAuL+UyAAAzb2kyQAAuL9OyQAAw7vFxgAAw7vUxAAArru4vwAA17cAAAAArrcAAAAA17cAAAAAzcEAAAAAwMYAAAAAlMiaOwAAXMquNwAAHc4AAAAAXNAkQgAArtA9QAAA+s6KQwAASc3DPQAAuMekPwAAw8KuNwAAmjsAAAAArjsAAAAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "auMozBAl",
+			"typeName": "shape"
+		},
+		{
+			"x": 137.453125,
+			"y": 135.9140625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FHlTKPr9smWUCxwLTRE0I",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAAACPNgAAjzbcQAAAezqzQQAAjzYPQAAAAADhQAAAuLauQQAAj7auQQAAAACPOgAAAABmNgAAjzYAAAAAjzaPtgAAD0TsvAAAgEaPtgAAeEiPtgAA4EgAAAAArEgAAAAAsUWPNgAAD0RmNgAAgEKPNgAA4UAAAAAAgEIAAAAAgEKPtgAArkGPtgAAgEKPtgAAgEKPtgAA4UAAAAAArkEAAAAAUkMAAAAArkGPtgAAD0AAAAAAFEAAAAAArkF7OgAAgEIAAAAASEWPNgAAeERmNgAAgEIAAAAA4UAAAAAAgEIAAAAAgEKPNgAArkGPtgAAD0QAAAAA6UZmNgAASEmPOgAArUh7OgAA5kZ7OgAA4UCPNgAAjzYAAAAAAACPtgAAAAAawAAAZjaFxAAA4TzsxAAAezrsxAAAhT4axAAAezrswAAAAACPvgAAAACPtgAAAADsvAAAAACPvgAAj7aPtgAAAACPtgAAAACPtgAAj7YAAAAAj7oAAAAAGsAAAAAA7MAAAAAAvcGPugAAYcOPtgAAZsOPtgAAYcMAAAAAGsQAAAAAGsQAAAAA7MQAAAAAvcWPtgAAjcYAAAAATMiPtgAAyMcAAAAAX8dmNgAAX8ePNgAAX8ePNgAAvcVmNgAAVMUAAAAAVMWPtgAA7MSPtgAAg8SPtgAAVMWPugAAvcUAAAAA7MQAAAAAg8SPtgAAj8KPtgAA8cAAAAAA7MCPtgAAGsAAAAAAGsCPNgAAvcEAAAAA7MAAAAAAGsAAAAAAj7pmNgAAj7oAAAAAj7YAAAAAj7YAAAAAj7YAAAAAj7YAAAAAj7qPNgAAj74AAAAA7MCPNgAA7LxmNgAAj74AAAAA9rwAAAAAj7YAAAAAj7YAAAAAj7YAAAAAj7YAAAAAj7YAAAAAAACPNgAAAACPNgAAAABmNgAAAACPNgAAAABmNgAAAACPOgAAAADhPAAAAADXPAAAAACPNgAAAACPNgAAAAB7OgAAAAB7OgAAAACFPgAAj7bhPAAAAADXPAAAAADhPAAAAADhPAAAj7bhPAAAj7bhPAAAAACPNgAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a2pMMPfV",
+			"typeName": "shape"
+		},
+		{
+			"x": 229.19685946329346,
+			"y": -16.755526181395318,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4VZxGHN4kLb_y4hE2bu66",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/w7uuNwAAuL+uNwAAzcGuOwAAUsXDPQAAysW9QQAAzcVPRAAAzcWpQwAAzcVDRQAAu8c7RgAAGsi9RQAAw8bDQQAASMa9QQAAuMfKRAAAjMk4RgAAQ8o7RgAAFsvhRwAAPMyJSAAAT8xMSAAA18rARQAAwMakPwAAw7+uOwAArrcAAAAAAACuNwAArjcAAAAAAADXtwAAhTcAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b07bPumtV",
+			"typeName": "shape"
+		},
+		{
+			"x": 489.2109375,
+			"y": 161.4296875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:uDuHgFmgx_Ud-ufk9gVmK",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7aPtgAA7MCPtgAAj8KPugAA7MAAAAAA7MCPOgAA7LxmNgAAj7aPNgAApLp7OgAAj7Z7OgAAAACPNgAAjzYAAAAAhT4AAAAA3EAAAAAAAACPNgAAAABmNgAAj7p7OgAAGsDhQAAAvcGzQQAAGsBNQwAAj7qFPgAAAAB7OgAAAACPNgAAezrXPAAAD0CPNgAA6UYAAAAAeEiPtgAA30SPvgAA4UCPvgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aDkmiXUl",
+			"typeName": "shape"
+		},
+		{
+			"x": 216.16846741723973,
+			"y": 303.1628554667905,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mHCepH-_R46DkI3rH6zRB",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rrcAAAAAAACuNwAAAACuNwAArjeuPwAAwz1DRQAAmjtPSAAArjcISQAArjeMSAAAAAAuRwAArre2RgAA17fKRAAAzb1NRAAAAACuOwAArjcAAAAAzUAAAAAAvUWuuwAAFkrDuwAAe0u4vgAAT0gAAAAALkeuOwAAqUeuOwAAEkiuNwAAOEauNwAAT0SaOwAARUUAAAAAT0QAAAAApD8AAAAArjsAAAAArjcAAAAAmjsAAAAArjuutwAAwz2utwAAAADXtwAAAAC4vwAArrfUxAAAzb3XxAAAw7sayAAAAADSyAAAw7vTyAAArrdNxQAAAADDvwAAAADNvQAA17fXwAAAAAC4vwAAAACutwAAAADXtwAAAACutwAAAACutwAAAADDuwAArreutwAArrfDuwAAAACutwAA17cAAAAAAADXtwAAAACutwAArrcAAAAArrcAAAAAw7+uNwAA1MTXtwAAzcWuNwAAw8YAAAAAG8jDPQAAVsiaOwAASsauNwAAysWutwAAUsWutwAA18QAAAAAT8UAAAAAyMIAAAAArrcAAAAArrcAAAAA18CFNwAAw8KuOwAAvcOuNwAAzcEAAAAAw8IAAAAAyMIAAAAAw8KuNwAA18AAAAAArrcAAAAArjcfoQAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aOOEcOAV",
+			"typeName": "shape"
+		},
+		{
+			"x": 1018.7059865254704,
+			"y": 157.92575463662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:YBpshGiSknFirJCA7HUla",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7LwAAAAAj74AAAAAj757OgAAGsCPOgAAj7p7PgAAAACPNgAAAABmNgAAezqPOgAAezp7OgAA4UB7OgAArkGPtgAAgEKPugAA4TyPtgAAezqPtgAAjzYAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aHW7LbYl",
+			"typeName": "shape"
+		},
+		{
+			"x": 328.7374576328248,
+			"y": 514.3240873990846,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wMG3sdBH2eCPJdF68ns8F",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjeuNwAArjuuOwAAmjvIQAAArjezRgAAAACpRwAArrcSSAAAw7vKRAAAAACuOwAArruuOwAAzb2FNwAAw7uutwAA0sC4wwAAw7/UxAAAAABaxAAAuD24vwAArjvDuwAArj8AAAAAqUOkPwAAvUWuPwAAykTDPQAAqUMAAAAAs0LDuwAAqUPXwAAArj/DwgAArjdSxQAAw7tSxQAA18DAxgAAWsRPxQAA1MTDvwAAT8UAAAAAUsXNQAAAzcHIQAAArruuNwAAH6GFNwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "axytSxUl",
+			"typeName": "shape"
+		},
+		{
+			"x": 226.90868710113784,
+			"y": 822.1615683239431,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:GyDF-eTqItxm7m0_la6-B",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/bEAfoQAAXEdmQAAASk8fQQAA7E/XOQAAZlEAAAAA0FMAAAAA0FNSQAAAk04AAAAA1zkAAAAA7LkAAAAAbMNsQAAAbMMAAAAAccMfIQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0RUUb1r8",
+			"typeName": "shape"
+		},
+		{
+			"name": "",
+			"color": "#BD54C6",
+			"imageUrl": "",
+			"meta": {},
+			"id": "user:Wq4iOicGr9TjNx5LoPf3w",
+			"typeName": "user"
+		},
+		{
+			"x": 809.4091115254704,
+			"y": 150.56637963662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:TWPE7bkSdT5zPbFayTE5a",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7YAAAAAj7aPNgAA7LzhPAAA7MB7PgAAj8JSQwAAYcNNQwAAj8KAQgAA7LyFPgAA7LzhQAAAj7Z7OgAAAABmNgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a6qPLQzO",
+			"typeName": "shape"
+		},
+		{
+			"x": 831.7528615254704,
+			"y": 149.36325463662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Mc-R045iSUL06kIGpb1_U",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7aPNgAAj7qPNgAAGsB7OgAAj8J7PgAAg8SzQQAAvcGAQgAAj8IPQAAA7MB7PgAAGsCFPgAAH8B7PgAAj7aPNgAAjzYAAAAAAACPNgAAj7p7OgAA7LzhQAAAj7rhPAAAj7Z7OgAAj7YAAAAAj7ZmNgAAj76POgAA7LxmNgAAj7aPNgAAj7aPNgAAj7ZmNgAAj7aPNgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a7vCIwTG",
+			"typeName": "shape"
+		},
+		{
+			"x": 934.9169240254704,
+			"y": 143.87887963662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8ilYVa_TUvssU4W1bsDSA",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAjzaPNgAAAABmNgAAZjbhQAAA4Tx4RAAAezrfRAAAjzbhRAAAjzbfRAAAj7Z4RAAAAACAQgAAj7azQQAAAADcQAAAZjYUQAAAjzZ7PgAAZjaFPgAAAADXPAAAAACPNgAAAACPNgAAAABmNgAAAACPtgAAjzYAAAAAhT6PtgAAD0CPugAAD0AAAAAAgEKPtgAASEWPugAASEWPtgAAT0cAAAAA4Eh7OgAAykp7OgAAGEqPtgAAd0jsvAAAEkQAAAAA1zwAAAAAs0GPtgAAsUWPtgAAgEaPtgAArkWPtgAA4UAAAAAAezoAAAAAjzYAAAAAjzYAAAAA1zwAAAAAgEIAAAAAgEKPNgAAgEIAAAAAhT4AAAAAjzYAAAAAZjYAAAAAezoAAAAAhT6PtgAAD0BmNgAA4UAAAAAA4TyPtgAAZjYAAAAAAACPtgAAAACPtgAAj76PwgAAj74mxgAAj7phxwAAj7r2xgAAAAC7xQAAAACFxAAAAAC9wQAAAACPugAAAACPtgAAj7YAAAAAj7aPtgAAj7YAAAAAj7aPtgAAj74AAAAAYcMAAAAAGsSPNgAAvcUAAAAATMgAAAAATcgAAAAAgMhmNgAAhMmPNgAAVMqPugAAt8uPtgAAHMt7OgAAhMmPOgAAwMVmNgAA7MAAAAAA7Lx7OgAAj7oAAAAAj7YAAAAAj7YAAAAA7MCPNgAAj74AAAAAj7oAAAAAjzYAAAAA1zyPtgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aCrzsgzI",
+			"typeName": "shape"
+		},
+		{
+			"x": 998.9325490254704,
+			"y": 161.69137963662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Wgnr3O3u1PJ6OkUMw8VHM",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/jzYAAAAAZjYAAAAA4TwAAAAA4TyPtgAAD0CPugAAD0CPvgAAAADsvAAAAACPtgAAj7YAAAAAj76PugAAj74AAAAAGsAAAAAAj77hPAAA7LyFPgAAj7p7OgAAAAB7OgAAj7YAAAAAjzaPNgAAezpmNgAArkHhPAAAs0F7OgAA3ECPNgAA4UAAAAAArkEAAAAAjzqPtgAAZjYAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aGczfrD8",
+			"typeName": "shape"
+		},
+		{
+			"x": 473.7715435052194,
+			"y": 260.61571790861785,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jcmhm01JSi6UjUsiNbk1i",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AADDPQAAzUAuRwAAuD1PRAAAwz2pQwAArrdDRQAAw7+pRwAArrs7RgAA17ekPwAAAACuNwAArjcAAAAArjeuNwAArjcAAAAAqUOuNwAAEkiutwAAgUnDvwAAyki4vwAAyUjDuwAAr00AAAAA408AAAAA1k+kPQAAN1AuRAAAyk5fRAAAOEwkQgAARUUAAAAArjcAAAAArjcAAAAAAACutwAAAADXtwAAAADNwQAAw7taxAAAzb24xwAAzb1XyAAArrfjyQAAzb3SyAAAzb0ayAAAw7vDxgAArrfIwgAAAACuuwAAAADXtwAAzb2uuwAAw7vDuwAA18CutwAAuMMAAAAASMYAAAAAKcmaOwAAj8szQgAAPtAARAAAitEuQQAAqNCuOwAAS82uOwAAOMvDPQAAT8mkPwAAV8SuOwAAzcGuOwAA18AAAAAA1MSuNwAA18QAAAAA1MSFNwAA0sSuOwAA18AAAAAAw7uuNwAArjeutwAAwz3DuwAAhTcAAAAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "alAGgwyV",
+			"typeName": "shape"
+		},
+		{
+			"x": 284.69873031390256,
+			"y": 291.4695283300497,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:I2zi0uhlSTW_vvyQEYwlt",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjcAAAAArjcAAAAAs0IAAAAAw0EAAAAApD8AAAAArj+utwAAvUHXtwAAwz2uNwAAhTcAAAAAAACutwAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aMgAJj2V",
+			"typeName": "shape"
+		},
+		{
+			"x": 362.40473633199394,
+			"y": 895.4114772154021,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Z2Bouenyn0ifJNhqEBUqo",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/bMMmRQAArsYKSAAAc8gmSQAAM8UlSQAAbMNcRwAA7LlsQAAAZkDXOQAAbEAAAAAAXENzxAAAWkfSyAAA1zlxwAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0KhZezOl",
+			"typeName": "shape"
+		},
+		{
+			"x": 93.47759976737274,
+			"y": 729.676312151277,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sewYddEtHp_BtFhi0QRRl",
+			"type": "geo",
+			"props": {
+				"w": 402.11775443307886,
+				"h": 211.94950127099594,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b0848atIV",
+			"typeName": "shape"
+		},
+		{
+			"x": 400.64681585167966,
+			"y": 327.55311025830736,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:t5vmCp7hxvtBMJ8jKN8hn",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/w7uutwAArreutwAA1MTDuwAAzcUAAAAASMakPwAA18CuPwAAzb24PQAArjfDPQAArjeuOwAArjcAAAAAqUOuNwAAqUeFNwAAykQAAAAArjcAAAAAAACuNwAA17euNwAA0sCpQwAAvcNPRAAAzb2pQwAAzb29QQAAw7vNQAAArje4PQAArjcAAAAARUXNvQAAs0bNvQAAqUe4vwAAjUjNwQAAyETNvQAAAACutwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "akI2yQrV",
+			"typeName": "shape"
+		},
+		{
+			"x": 182.8653900741588,
+			"y": 905.6231652234951,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AvF5bdAJdxeoJb7PkqJ_c",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7DkUugAAn0bxwQAAakjxwQAAWkcAugAAJkUAugAA4UHsOQAAAADXOQAA7LlcQwAA8cVpRAAArsYmRQAA8cXkRQAA8cFpRAAAALrsOQAAAAAfoQAAbEQAAAAAaUj2vQAA5EUAAAAA4UEAAAAA1zkAAAAA4T3hPQAA7LnsOQAAM8XhQQAAc8RcQwAA8cVcQwAArsZXQwAAdsTsOQAA7LnXOQAAALofJQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0IiCeCvV",
+			"typeName": "shape"
+		},
+		{
+			"x": 316.98888643087105,
+			"y": 308.7885427743091,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:6B3RkpDV6h5BCUJHMrTk8",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjcAAAAAAACuNwAAwz1PRAAAuD04RgAArjsSSAAArjuzRgAAAABFRQAArjfKRAAAAABPRAAAhTezQgAArjfDPQAArjeFNwAAAACuNwAArjcAAAAArjfDPQAArjeuNwAAAACuOwAAAACFNwAAH6HNQAAAAACkPwAAAADDPQAArrvDPQAAAACaOwAAAACuNwAAAACutwAAAACutwAArjcAAAAAmjvNvQAAqUPNvQAARUXDuwAAykjDuwAAs0qutwAAPUwfoQAAskwAAAAAbUuuNwAAv0kAAAAAqUcAAAAAEkiutwAAyUgAAAAAEkgAAAAAwEWutwAAQ0XXtwAAw0HNvQAArjcAAAAAhTcAAAAArjsAAAAARUWuuwAAOEbDuwAAqUOutwAArj8AAAAArjvXtwAAhTcAAAAAAACutwAArreutwAAuL9IxgAA18DTyAAAzcESyQAA18BXyAAAuL8byAAAuL/DxgAA17fIwgAArrcAAAAAw7sAAAAAzcEAAAAAxcautwAAGMgAAAAA0sgAAAAAH8quOwAAP82kPwAAxMyuOwAAvcquNwAAgMrXtwAAXcqutwAAuMcAAAAAuMOutwAArrcAAAAA17cAAAAAuL8AAAAAw78AAAAArrsAAAAA17cAAAAArrcAAAAAuL+uNwAAzb2uNwAAw7sAAAAArrcAAAAA17cAAAAArrcAAAAArrcAAAAAH6EAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "ajaE6gKV",
+			"typeName": "shape"
+		},
+		{
+			"x": 330.55328263254296,
+			"y": 868.5810149018545,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3Tq5psmQ_vrtuYPn2ghFe",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/HyEUugAAaUQAAAAAn0rsuQAAuEvsuQAAhUnsuQAAnEYAAAAAZkAfIQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0H2Yu8QV",
+			"typeName": "shape"
+		},
+		{
+			"x": 697.6573251248961,
+			"y": 306.92865924547317,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UVdYX8VvwZf_SEdXHs9mb",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAArjuuOwAArjepQwAAmjuzRgAAAACNSAAArrcuRwAAhTepQwAAwz3KRAAArjdPRAAArjdNRAAAAACuPwAAAACuNwAArjcAAAAAAADXtwAA17cAAAAArjcAAAAAAACutwAAs0LNvQAAqUMAAAAAwEXDuwAAykjNvQAAjEjNvQAAykjNvQAAEkiuuwAAjEgAAAAAjUjXtwAAT0gAAAAALkcAAAAARUXDuwAAvUEAAAAAwz2utwAApD8AAAAAqUOutwAAqUMAAAAAvUEAAAAAzUDXtwAAs0IAAAAAT0SutwAAs0IAAAAAT0QAAAAAT0QAAAAAyEDDuwAArj+utwAApD+utwAAwz3XtwAArjcAAAAArjeutwAAAACutwAAAADXtwAA17eutwAArrtaxAAAzb1PxQAAzb0byAAAzb1IxgAAw7vXxAAArrfSwAAA17fDuwAAAACutwAArrcAAAAAw7vXtwAA0sCuuwAAvcPDuwAARcautwAAuMfXtwAAWMiuuwAAjMkAAAAAgMqFNwAAFMuuPwAAOMvDPQAAlsgAAAAAzcUAAAAAUsUAAAAASMYAAAAAO8euNwAAyMKFNwAA0sCuNwAAyMKuNwAAw8IAAAAAuL8AAAAAvcMAAAAAvcOuNwAAw7sAAAAArrcAAAAAAACutwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aq7wksLV",
+			"typeName": "shape"
+		},
+		{
+			"x": 669.179009507621,
+			"y": 314.9206340129464,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Y-mAse6rm6kN5DMjhxEm2",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rreuOwAAzb1PRAAAyMI4RgAAzcEuRwAAw8I7RgAA18BDRQAAzcFFRQAAzb2kPwAAAACuNwAAAACutwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "apsLPnNV",
+			"typeName": "shape"
+		},
+		{
+			"x": 66.47546537855311,
+			"y": 78.75225522759081,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qLl85zj5hn1G1IGvmLR3F",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/wz2uOwAAvUGzQgAAyEC9RQAAwz07RgAAAABFRQAAAACaOwAArrcAAAAAAACutwAAzb24vwAAw7/DxgAAw8KWyAAAw8JYyAAAzcG7xwAAuL9axAAA17eutwAAAACuNwAArjvIQAAAyEDARQAAqUO9RQAARUVFRQAAT0S9QQAAqUOuOwAApD/DuwAArjfNvQAArju4wwAAAAC4xwAAUsDhyQAA0sBEygAA18BAxwAAw7vNvQAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aVW1GlmV",
+			"typeName": "shape"
+		},
+		{
+			"x": 608.3092569871537,
+			"y": 307.64683209324147,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QI6miws073_Nkjt2A-xvy",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAArrfIQAAA17epQwAAzb3ARQAA0sCpQwAA18DKRAAA18C9RQAAzcGzQgAArrvDPQAAAACuNwAAAACutwAAH6HDuwAAmjvXtwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "anUU3KOd",
+			"typeName": "shape"
+		},
+		{
+			"x": 508.734375,
+			"y": 166.3671875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:NVzHlTGL12TpYpRuST1cz",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/jzYAAAAAZjYAAAAA4TwAAAAA4TyPtgAAD0CPugAAD0CPvgAAAADsvAAAAACPtgAAj7YAAAAAj76PugAAj74AAAAAGsAAAAAAj77hPAAA7LyFPgAAj7p7OgAAAAB7OgAAj7YAAAAAjzaPNgAAezpmNgAArkHhPAAAs0F7OgAA3ECPNgAA4UAAAAAArkEAAAAAjzqPtgAAZjYAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aG9r7Tzl",
+			"typeName": "shape"
+		},
+		{
+			"x": 73.50987634900191,
+			"y": 276.4799719689363,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:noMFgkfJGUS-y6V-hrC9K",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACutwAArjfXtwAAyEBaxAAAqUPDxgAARUXDxgAAqUM9xwAAyEDXxAAAwz3NvQAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aaJ2fecV",
+			"typeName": "shape"
+		},
+		{
+			"x": 334.004293400605,
+			"y": 852.4148185868215,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XmXpHqfLVKDCLTj83DtJZ",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/bEAAAAAAJkUfoQAA40kAAAAA/EoAAAAAW0vsuQAAn0bsvQAA7DkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0GDXsZZV",
+			"typeName": "shape"
+		},
+		{
+			"x": 179.21018778977705,
+			"y": 267.38311589720405,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:H-X64Icd6lJkZnUe26F4t",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAAw7uuNwAAzcGzQgAAw8LKRAAAzcU7RgAAvcMuRwAA18BPRAAAAACuNwAArjcAAAAArjcAAAAAwz0AAAAAvUHXtwAAT0haxAAAj0rKxQAAFko2yAAAs0bPxQAAuEK4wwAArjfXtwAAAACuNwAAAACuOwAAAACpQwAAw7vARQAAw78SSAAAzb1OSAAAAADKRAAArjeuOwAAAACuNwAArjcAAAAAuD3NvQAARUVIxgAALkfFxgAAT0TUxAAAs0LDwgAAw0HNwQAAAACuNwAAAACpQwAA17dFRQAAwz2zRgAArjc4RgAAAACuPwAAAACuNwAArjcAAAAATUQAAAAArkMAAAAApD/DuwAArj/NvQAATUS4vwAAqUPNvQAAwz3DuwAArjeutwAAvUHXtwAAzUCuNwAAuD2uNwAArjeuNwAAwz2uOwAAuD2uNwAArj+uNwAApD+FNwAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aLJPnq5V",
+			"typeName": "shape"
+		},
+		{
+			"x": 99.32726949185326,
+			"y": 233.44484516804926,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:t28ZRZys_dNuMkrrXNEcn",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/17cAAAAArreuPwAArruzQgAAAACzQgAArje4PQAAuD3DPQAAzUCuOwAAvUGuNwAArjuuNwAAAACaOwAA17fNQAAAzb2pQwAAzcGpQwAAzcGpQwAAw7ukPwAAAACutwAArjfXwAAArj/XwAAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "abPO3w8V",
+			"typeName": "shape"
+		},
+		{
+			"x": 383.97231550157136,
+			"y": 108.02240244625145,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2Na0FmTQwy-V8xiKQuBHu",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rrcAAAAAw7sAAAAAzb0AAAAAuL+uNwAAzb2kPwAA18DDQQAAzb29QQAAAADIQAAAAACuNwAArjeuNwAArj+uNwAAykSuOwAAqUOkPwAAmjvDPQAArjcAAAAArje4PQAAAACuPwAA18CzQgAAuL/NQAAArreaOwAAw7+uOwAAzcHDPQAA0sCkPwAA17fDPQAArjcAAAAAAACutwAArjvXtwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aQmnM9TV",
+			"typeName": "shape"
+		},
+		{
+			"x": 302.3125,
+			"y": 122.296875,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:w77XoV5htv_22MeH_JnOJ",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAj7YAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a41cz6al",
+			"typeName": "shape"
+		},
+		{
+			"x": 526.9899929936934,
+			"y": 495.06232332816984,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:y_v0PlNL0bizZi4ibcjAI",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjcAAAAArjcAAAAArjvDPQAArjfKRAAAAACpRwAAAADJSAAAAAAISQAAAABPSAAArjdPRAAArje9QQAAhTe9QQAAAACuPwAAAAC4PQAArjeuOwAAAACuNwAArjcAAAAArjsAAAAAT0SutwAAqUfXtwAAEkjNvQAAs0auuwAAykTDuwAAvUGutwAAzUAAAAAApD/XtwAArjuutwAApD8AAAAAT0TDuwAAykSuuwAAyEDDuwAAwz3DuwAArjeutwAAAACutwAAAADXtwAAw7vUxAAArrfNxQAAw7u4xwAArrfNxQAArrdKxgAAw7tIxgAArrfUxAAAw7u4vwAArrfNvQAA17fXtwAArrcAAAAArrcAAAAAw7+utwAAuMMAAAAAUsWutwAAw8aFNwAAzcWuOwAAysWuOwAAxcakPwAAWsSuOwAAzb2uNwAAw7sAAAAArruuNwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b00SlrFyV",
+			"typeName": "shape"
+		},
+		{
+			"x": 61.32855996954673,
+			"y": 487.30053216575055,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:clFSozlrP2u00fS_tOkkq",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AADDPQAAAAA4RgAArjtPSAAAuD0GSQAArrcSSAAAuL87RgAAzb3IQAAAw7sAAAAAw8KutwAAyMLNvQAAw8LNwQAAzcG9wwAArrfNwQAAhTfSwAAAwz3DuwAAwz0AAAAAs0LDPQAAykS9QQAAqUPIQAAAvUGuOwAAs0IAAAAAvUHXtwAAzUDSwAAAuD1axAAArjfPxQAArrvDxgAA18DNxQAAyMLNwQAAWsS4vwAAT8XNvQAAyMLNvQAAuL8AAAAAvcOuNwAAWsS4PQAAzb3DPQAArrekPwAArjvNQAAApD/IQAAAwz24PQAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "asVrGv2V",
+			"typeName": "shape"
+		},
+		{
+			"x": 528.5078125,
+			"y": 162.6015625,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:G32aVC3XH7BA1qYmJoKmF",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7LwAAAAAj74AAAAAj757OgAAGsCPOgAAj7p7PgAAAACPNgAAAABmNgAAezqPOgAAezp7OgAA4UB7OgAArkGPtgAAgEKPugAA4TyPtgAAezqPtgAAjzYAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aH2fIxlV",
+			"typeName": "shape"
+		},
+		{
+			"x": 847.3622365254704,
+			"y": 144.60544213662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jo6JWSUvSb2dRTn0VnJhA",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j77hPAAAGsAPQAAAj8IPRAAAg8QaRgAAUsWARgAAvcUXRgAAKcbhRAAAJMZ2RAAAVMVSQwAAj7rhPAAAAACPtgAAezqPugAAgELswAAAgEKavgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a8wuxVj2",
+			"typeName": "shape"
+		},
+		{
+			"x": 163.34717003881627,
+			"y": 840.9584720443379,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:78ilL3WZv2whA1MytzyWL",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7DkfoQAAAAAAugAAV0PxwQAAJkVxwAAAXEMAugAA4UUAAAAA4UHsOQAA7DlcQwAA4UFaRwAAAABcRwAAbMPhRQAAdsQmRQAAZsNmQAAAdsDhPQAA7DkAAAAAJEUAAAAA40nsuQAA/UrsuQAA4Un2vQAAJklxwAAA4UH2vQAA7DkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0ExqWLtV",
+			"typeName": "shape"
+		},
+		{
+			"x": 67.7552862226531,
+			"y": 312.47148045517235,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:wOZShXxsu8vJcVcdwqhOz",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjcAAAAAAACuuwAArjfDuwAAuD1vyAAAzUAGygAApD/lywAAwz2PywAArjsRyQAArjfDwgAAAACuNwAAAAC4PQAAyEAuRwAAA0WmSAAARUUuRwAAT0RFRQAAyEDIQAAArjeuNwAAAACuNwAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aZFHEKbV",
+			"typeName": "shape"
+		},
+		{
+			"x": 154.84018243329635,
+			"y": 134.2515671234571,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZqkOHspowP1LtqmS6eduN",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AADhNgAAuLYAAAAA4bYAAAAAAADhtgAAuDYAAAAAFD0AgAAAFEEAAAAAyEIAAAAA8UHhtgAAFEEAAAAAPUS4NgAAgEXhtgAAg0W4tgAAFEXhtgAA7kUAAAAAPEjNOgAAuEm4NgAAIUv2OAAALEkAAAAAqUQAAAAAyELhNgAAn0O4NgAAg0UAAAAAO0S4NgAAPUAAAAAAPUAAAAAAwz4AAAAAPUDhtgAAn0PhtgAAqUQAAAAAn0O4tgAAGkEAAAAAuDoAAAAA4TYAAAAAuDq4NgAA4TYAAAAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aJzJ3LiG",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "page:page",
+			"name": "Page 1",
+			"index": "a1",
+			"typeName": "page"
+		},
+		{
+			"gridSize": 10,
+			"name": "",
+			"meta": {},
+			"id": "document:document",
+			"typeName": "document"
+		},
+		{
+			"x": 864.4637990254704,
+			"y": 147.09762963662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zBLHuDj33iomxNgVbdSVM",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAj7Z7OgAAGsAPQAAAvcFSQwAAGsQPRAAA7MTfRAAAg8QaRgAAUsWxRQAAvcGuQQAAj7aPNgAAAAC4tgAA4TwAAAAAez6PugAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a9eUFyd8",
+			"typeName": "shape"
+		},
+		{
+			"x": 569.6328125,
+			"y": 101.2578125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:gcUoLIW2RKM-Q89PDN7H3",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAAABmNgAAjzbhPAAAezqAQgAA4Tx4RAAA4TxPRwAA4Tx4SAAAZjYRSAAAjzbfRAAAZjZSQwAAAACuQQAAjzaFPgAAAABmNgAAj7YAAAAAAACPNgAAj7YAAAAAj7YAAAAAj7YAAAAAAACPtgAAjzaPugAAD0CPtgAA30SPtgAAT0fsvAAARUjsvAAAREiPvgAAT0ePtgAAREgAAAAA30rXPAAAn0yPOgAALE0AAAAA0kwAAAAAd0oAAAAA+kl7OgAArUh7OgAAREh7OgAAF0aPNgAAUkMAAAAA4UAAAAAArkGPtgAA30SPtgAASkUAAAAAdkSPugAAhT4AAAAA4TyPtgAArkEAAAAAD0SPugAAs0GPtgAA4TyPtgAAZjYAAAAAAACPtgAAj7bsvAAAj7q9wQAAj7phwwAA7LyPxgAAj75cxwAAj7rIxwAAj7q7xQAAj7ZSxQAAj7YcxAAAj7aPvgAAAACPugAAAACPtgAAj7YAAAAAAACPtgAAj7YAAAAAj7YAAAAA7LwAAAAA7MAAAAAA7MCPNgAAj8IAAAAAHMSPNgAALMhmNgAAgMiPNgAAtMh7OgAAgMh7OgAAGMiPNgAAmsl7OgAAF8rhPAAAhcl7OgAAF8qPNgAAncp7OgAAIcqPNgAA6MgfoQAAF8gAAAAA7MSPNgAAGsSPNgAA7MBmNgAAYcOPNgAA7MQAAAAA+MaPNgAAVMVmNgAA7MSPNgAAGsSPtgAAUsWPtgAAYcMAAAAAGsAAAAAAj7YAAAAAj7YAAAAAj7YAAAAAj7YAAAAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aIlfk1EV",
+			"typeName": "shape"
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {
+				"tldraw:geo": "rectangle"
+			},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "cross",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 528,
+				"h": 868.800048828125
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.6666666269302368,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"cameraState": "idle",
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"x": 979.4091115254704,
+			"y": 156.75387963662112,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nbB5yMg7JySOiKEJpU83P",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j7aPtgAA7MCPtgAAj8KPugAA7MAAAAAA7MCPOgAA7LxmNgAAj7aPNgAApLp7OgAAj7Z7OgAAAACPNgAAjzYAAAAAhT4AAAAA3EAAAAAAAACPNgAAAABmNgAAj7p7OgAAGsDhQAAAvcGzQQAAGsBNQwAAj7qFPgAAAAB7OgAAAACPNgAAezrXPAAAD0CPNgAA6UYAAAAAeEiPtgAA30SPvgAA4UCPvgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aDxo2UQX",
+			"typeName": "shape"
+		},
+		{
+			"x": 906.4154402204271,
+			"y": 483.7649119921219,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OhpA4jMXF-YG3KLKtuuSJ",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/w7sAAAAAw8IAAAAA1MQAAAAAWsSuNwAAUsWuNwAARcauNwAAlsi4PQAABcquNwAAycnDPQAAismuOwAAWMiaOwAASMauOwAASMYAAAAAPceutwAAPcfXtwAAGsgAAAAASMYAAAAA18AAAAAArrcAAAAA17euNwAAzcGuNwAA0sCuNwAA17euNwAArrsAAAAAzb0AAAAAw78AAAAArrcAAAAAAACuNwAAAACkPwAArjcuRwAArjdFSQAAmjvJSAAArjuNSAAAwz3ARQAAmju9QQAAAACkPwAArjeuOwAAAACuNwAArjcAAAAArjuuNwAAvUGuNwAAtkYAAAAAv0nDuwAAK0yutwAAH0wAAAAAVkwAAAAAUkrXtwAAtkautwAAvUWutwAAO0YAAAAAykTXtwAAyEDNvQAApD+utwAAuEIAAAAAvUGutwAAs0LNvQAApD/DuwAArjsAAAAAwz2utwAAwz0AAAAAs0IAAAAAQ0UAAAAAs0LXtwAAzUCutwAApD+utwAArjfXtwAAAACutwAAAACutwAAAADXtwAArre4vwAArre9wwAAzb3KxQAAw7sbyAAAuL87xwAAw7/PxQAAzb24wwAAw7vNwQAAAADNvQAArrfXtwAArreuuwAAAADDuwAA17eutwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b04HzoCEl",
+			"typeName": "shape"
+		},
+		{
+			"x": 281.172317484476,
+			"y": 315.1600249622025,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FWLDt5o0FTHRW37xdNH6L",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rrcAAAAAw7uuOwAA0sCzQgAA18C9RQAA18DKRAAAzcFFRQAAzcHKRAAA0sBDRQAAw7+pQwAArruuOwAAhTcAAAAAw0GutwAApD/DuwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "agls9cqV",
+			"typeName": "shape"
+		},
+		{
+			"x": 357.1640625,
+			"y": 149.28125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:DjCPieHI_1Bo5r3MQJC7g",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/j77hPAAAGsAPQAAAj8IPRAAAg8QaRgAAUsWARgAAvcUXRgAAKcbhRAAAJMZ2RAAAVMVSQwAAj7rhPAAAAACPtgAAezqPugAAgELswAAAgEKavgAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a8nmtUQl",
+			"typeName": "shape"
+		},
+		{
+			"x": 616.4853786386702,
+			"y": 489.36297726703407,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:-v48V2Fe9fvtnlgvgnC1I",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAAAACuNwAArrezQgAAAACzRgAArjcSSAAAwz1pSAAArjc4RgAAAACpRwAA17cuRwAArrfARQAAAADDPQAAAADXtwAArjcAAAAAs0KutwAAOEYAAAAAT0iutwAAkUrXtwAAwUuutwAAJUsAAAAAs0quOwAAtEoAAAAAv0nDuwAABknDuwAAykSuuwAAyEDXtwAArj+utwAAyEAAAAAArj+utwAAqUPXtwAAykTNvQAAyECutwAArjsAAAAArjcAAAAApD8AAAAArjcAAAAAAACutwAArjfXwAAArje9wwAAAADUxAAAAAC4xwAA17eXyAAArrtXyAAAw7s9xwAArrfNvQAA17cAAAAArrcAAAAAw7vXtwAA1MSutwAAw8YAAAAAxcYAAAAAGsgAAAAARMoAAAAAqMuaOwAABsquOwAA4ckAAAAAXMoAAAAAUssAAAAABsquOwAAw8auNwAAzb0AAAAArrcAAAAAzb2uNwAAvcOaOwAAzb0AAAAAAACuNwAArrcAAAAAhTcAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b02ybCXwV",
+			"typeName": "shape"
+		},
+		{
+			"x": 376.8453812225086,
+			"y": 894.9871680841991,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:FXVYNESol_79rnfwHQ5PC",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7LnXPQAAccBsQAAAdsAmRQAAdsThRQAAc8QMSAAA8cFcQwAA9r3hQQAAccBsQAAAAADXOQAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0LayTrYV",
+			"typeName": "shape"
+		},
+		{
+			"x": 416.2421875,
+			"y": 153.6328125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:15NrLIqfUkwbPm0x_N1ob",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAAACPNgAAGsB7OgAAYcOAQgAAGsR4RAAAg8RIRQAAj8JIRQAAj7qAQgAAj76AQgAAj7bhQAAAj7rhPAAAAABmNgAAj7YAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aB4qZQTV",
+			"typeName": "shape"
+		},
+		{
+			"x": 356.7897305786012,
+			"y": 903.1480286248104,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:og9yelrIMMe-DErrnBXfv",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/7MFhQAAArMZcQwAArsbhRQAAbMfkRQAAbMOfRgAA7LnhQQAA7LkAAAAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0JSDtMxV",
+			"typeName": "shape"
+		},
+		{
+			"x": 158.89192416118374,
+			"y": 805.3165050232776,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:SZA0-aFQ0TC7PZC0PVNPa",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/McX2vQAAFshmQAAAFsifRgAArsZqSAAAbMOfRgAAAAAMSAAA1zkmSQAAn0YlSQAAJknISAAA/ErISAAA90z9SgAAYU2zRwAAuEt2wAAAaEp0yAAAWkeyywAAbETIywAAAABCzAAAccMTzAAAbMNsxwAAxsrMyQAAFMhxwwAAVsvsvQAAJM1cQwAAhMz2RgAAMclqSAAA7sUMSAAA7LlpRAAA4T1pRAAA7DkAOgAA"
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "b0QPwqYDV",
+			"typeName": "shape"
+		},
+		{
+			"x": 87.16953504812895,
+			"y": 731.5715688120816,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8DeQ_7OUPOPJqrgteUtb0",
+			"type": "geo",
+			"props": {
+				"w": 225.8739056872379,
+				"h": 207.89733985990893,
+				"geo": "rectangle",
+				"dash": "draw",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b09VlFLGV",
+			"typeName": "shape"
+		},
+		{
+			"x": 283.54781228863277,
+			"y": 509.1771819900783,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:xOF3UbI40ASd2L51RueOw",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAArjeuOwAAAABPRAAAAADARQAArrc4RgAArrcuRwAArjezRgAAAADARQAA17epQwAAAADIQAAAAADDPQAAAACuPwAAAACzQgAAAAC9QQAArjeuOwAArjcAAAAAAACuNwAAAACaOwAArjcAAAAArjeuNwAArjcAAAAAAACutwAAEkgAAAAAqUfNvQAAjEjDuwAAqUeutwAAqUeutwAARUnDuwAASEsAAAAAHkyuOwAAGE6kPgAA+E4AQgAA2Em4PAAAyEAAAAAAAACutwAAuL+4vwAAzb3NwQAAzcHIwgAAzcFaxAAAzcFPxQAAuL9axAAAw7vDvwAAw7u4vwAArrvDuwAAzb3NvQAAzb24vwAAzb3NvQAAw7+4vwAAzb3DuwAArrfDuwAAw7uuuwAAw7vDuwAAuL/XwAAAw7vSwAAA0sC9wwAAuL9IxgAArrdPxQAA17fDvwAAAACutwAArrcAAAAArrcAAAAAw7vDuwAAw7/NvQAArruuuwAAw7/DvwAAAACuuwAArrvXtwAAw7+utwAAzcHDuwAAWsSutwAAwMYAAAAAD8kAAAAAj8sAAAAAJMyuNwAAXMquNwAAiskAAAAAQMcAAAAAvcPXtwAAw8IAAAAAzcUAAAAAzcWuNwAAw8IAAAAAzb0AAAAA17cAAAAArreuNwAAw7sAAAAArrcAAAAAAACutwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "awH9LgBV",
+			"typeName": "shape"
+		},
+		{
+			"x": 453.9757534705795,
+			"y": 207.06580402886624,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sI3KRZtdQA4zwGidrT_wx",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rruuNwAAAADNQAAA17dPRAAAAABPRAAArjekPwAAvUGuOwAARUWuNwAAykQAAAAAmjsAAAAAAACuNwAAAAC4PQAArru9QQAA18DNQAAA18CkPwAA0sCuNwAAzcEAAAAAw7+uNwAArrcAAAAArrcAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aUgHzqTl",
+			"typeName": "shape"
+		},
+		{
+			"x": 88.9874219528297,
+			"y": 57.51091215321202,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UCOLFyb-fXQU3XmHMkGxE",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACuNwAArrfNQAAAuD29QQAArjezQgAArj+pQwAAmjuuPwAAzUCuNwAAvUHNvQAAyEDNwQAArj9SxQAArjtPxQAA17fXxAAAzb3XwAAAzcHNvQAAuL8AAAAAzb2uPwAArreuOwAA17ekPwAA"
+					}
+				],
+				"color": "red",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": true,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aWiLWCbV",
+			"typeName": "shape"
+		},
+		{
+			"x": 751.8333384103944,
+			"y": 315.5191113860867,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:1tZ83JUpHJkgjzR43rgzL",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/zcEAAAAASMbDPQAAysWuPwAAzcHIQAAAzcHIQAAAw7uuPwAArrcAAAAAAACuNwAArjcAAAAAuD0AAAAAs0KuNwAAzUCuNwAArjuFNwAAhTeuOwAAAACuPwAAw8K9QQAAzcGpQwAAzcG9QQAAzcGzQgAA18C4QgAArreaOwAArjcAAAAAykQAAAAATkiuuwAAtkbNvQAAvUXDuwAAqUPDuwAAwz0AAAAArjcAAAAAAADXtwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "arFgtbjV",
+			"typeName": "shape"
+		},
+		{
+			"x": 493.8359375,
+			"y": 164.125,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:jhlSGNY4brrAJqRIjB3-M",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/jzYAAAAA4TwPQAAArkEPQAAAhT6zQQAAezp7PgAAjzZ7OgAAAACPtgAAZjYAAAAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aE2w4yVV",
+			"typeName": "shape"
+		},
+		{
+			"x": 411.4286159124068,
+			"y": 475.42305814496666,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:_p4IAOeeQIybqiZPmjCxl",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/rjeuOwAArjsAAAAArjuuNwAAuD0AAAAAT0TNvQAAYUfFxQAAO0bDxgAAqUPNxQAAyEC4wwAArjfXtwAAAACuNwAArrepQwAAAAC2RgAAuD1NRAAArjvDPQAArjcAAAAArj8AAAAATUSutwAAtkbNvQAAvUXIwgAAqUfDwgAAqUO4vwAArjvXtwAAAACuNwAArjeuNwAArjeuOwAApD+4PQAArjvDPQAAyECuOwAAw0G4PQAAT0SuNwAAOEautwAAs0bNwQAAtkbUxAAAyETXxAAArj+4vwAArjcAAAAAAACuNwAAAAC9QQAArjvIQAAAuD3DQQAAzUC4PQAAmjuuNwAAwz0AAAAArjcAAAAApD8AAAAArjfXtwAA"
+					}
+				],
+				"color": "light-blue",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "azhkHL8V",
+			"typeName": "shape"
+		},
+		{
+			"x": 230.05314247409416,
+			"y": 311.70727088639325,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:qnyn3P-BDO-WtwS6iLZnN",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/uL/NQAAA18CkPwAAuMOpQwAAvcM7RgAAvcO9RQAAuL9PRAAAzb2uPwAArrekPwAAAACuNwAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "ad5vJQcV",
+			"typeName": "shape"
+		},
+		{
+			"x": 374.265625,
+			"y": 151.7734375,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hLr5RbNbupNMZmbVYpbyr",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/AACPNgAAj7Z7OgAAGsAPQAAAvcFSQwAAGsQPRAAA7MTfRAAAg8QaRgAAUsWxRQAAvcGuQQAAj7aPNgAAAAC4tgAA4TwAAAAAez6PugAA"
+					}
+				],
+				"color": "yellow",
+				"fill": "none",
+				"dash": "draw",
+				"size": "m",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "a9AsFycV",
+			"typeName": "shape"
+		}
+	]
+}
