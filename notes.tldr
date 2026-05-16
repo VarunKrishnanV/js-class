@@ -860,9 +860,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -915.9823918056327,
-			"y": -3301.262491444904,
-			"z": 0.38613418155319434,
+			"x": -635.6079693827021,
+			"y": -3338.5124502781646,
+			"z": 0.42439838328375307,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -1178,8 +1178,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1171.7792549736114,
-			"y": 3464.986884998219,
+			"x": 1092.2709370616924,
+			"y": 3449.7233402004476,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1188,7 +1188,7 @@
 			"type": "geo",
 			"props": {
 				"w": 410.1430157166724,
-				"h": 1359.5862025948948,
+				"h": 1244.7248213646092,
 				"geo": "rectangle",
 				"dash": "draw",
 				"growY": 0,
@@ -3042,8 +3042,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1575.6462137843396,
-			"y": 3599.3494467023047,
+			"x": 1126.6201007683405,
+			"y": 4492.400385330981,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -3052,7 +3052,7 @@
 			"type": "geo",
 			"props": {
 				"w": 329.1237698481052,
-				"h": 86.15042798384638,
+				"h": 164.3861760635,
 				"geo": "rectangle",
 				"dash": "draw",
 				"growY": 0,
@@ -3657,13 +3657,11 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:geo": "rectangle"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "ns-resize",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -3673,7 +3671,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 672,
+				"w": 707,
 				"h": 710
 			},
 			"insets": [

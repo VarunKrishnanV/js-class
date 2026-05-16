@@ -92,6 +92,45 @@ Scope:
 
 Object and Object Manipulation
 -----------------
+- Literal syntax to create object
+- two ways we can access keys and the values
+    - brakcet notation
+    - dot notation
+- Deleting a key in object
+- Dynamic key
+- Constructor function to create objects
+- Constructor method of creating objects
+- Factory functions
+- Methods
+- Nested objects
+- How to check whether the property exist or not
+- for in loop
+- How to get all the keys of objects
+- How objects are stored in memory
+- Equality operator on objects
+- Static methos
+    - Object.assing(target, source)
+    - Structured clone
+- Object.entries(obj)
+- Object.fromEntries(obj)
+- Object.freeze
+- Object.isFrozen
+- Object.seal
+- Object.hasOwn
+- Destructiong of objects
+    - Dynamic values on destruction the objects
+    - Aliasis
+    - Nested object destructuring
+    - destructuring function params
+    - destructuring the function returned values
+    - destructuring within loops - for of loop
+- Optional chaining
+
+
+
+
+
+
 
 This
 -----------------
