@@ -127,13 +127,27 @@ Object and Object Manipulation
 - Optional chaining
 
 
-
-
-
-
-
 This
 -----------------
+- This keyword
+    "this refers to the object that is currently executing the function. Its value depends on how the function is called, not where it is defined"
+- What happens when GEC is created
+- Binding
+    - Objects
+    - Functions
+- Implicit binding
+- Functions
+    - Normal mode
+    - Strict mode
+- Arrow functions
+    - Normal mode
+    - Strict mode
+- Explict binding
+    - Call
+    - Apply
+    - Bind
+
+
 
 Error handling
 -----------------

@@ -259,7 +259,7 @@ console.log(Object.isFrozen(laptop1));
 
 // - Object.seal
 
-let laptop2 = {
+let laptop2  = {
     brand: "asus",
     model: "i5"
 }
@@ -275,13 +275,3 @@ console.log(Object.isSealed(laptop2));
 // - Object.hasOwn
 console.log(Object.hasOwn(laptop2, "brand"));
 
-/*
-- Destructiong of objects
-    - Dynamic values on destruction the objects
-    - Aliasis
-    - Nested object destructuring
-    - destructuring function params
-    - destructuring the function returned values
-    - destructuring within loops - for of loop */
-
-// - Optional chaining
